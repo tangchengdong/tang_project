@@ -1,0 +1,11 @@
+# RDS:
+#     host: xx.xx.xx.xx
+#     user: crawl
+#     passwd: 'crawl'
+#     db: house
+
+biying:
+  host: 127.0.0.1
+  user: root
+  passwd: 'mysql'
+  db: baidu_new

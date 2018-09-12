@@ -1,0 +1,19 @@
+{
+  "task": {
+    "test": {
+      "day_of_week": 5,
+      "hour": 16,
+      "minute": 56
+    },
+
+    "biying": {
+      "hour": 2,
+      "minute": 19
+    },
+
+    "baiduimage": {
+      "hour": 11,
+      "minute": 56
+    }
+  }
+}

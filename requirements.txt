@@ -1,0 +1,13 @@
+mysql-python
+scrapy==1.2.1
+apscheduler
+beautifulsoup4
+lxml
+html5lib
+Ghost.py
+selenium
+scrapy-redis
+Twisted==16.1.1
+mysql-connector==2.1.4
+pandas==0.18.1
+yaml
